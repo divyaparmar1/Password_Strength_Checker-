@@ -28,6 +28,10 @@ A Password Strength Checker is a cybersecurity project designed to assess the ro
    ```bash
    git clone https://github.com/your-username/password-strength-checker.git
 
+## Screenshots
+![image](https://github.com/divyaparmar1/Password_Strength_Checker-/assets/112643573/f8871a1f-96fb-45bd-b438-e12bdd2e1fc9)
+![image](https://github.com/divyaparmar1/Password_Strength_Checker-/assets/112643573/15e25478-845b-4e02-82f1-4a79ebe7011a)
+
 ## Contributing
 Contributions are welcome! If you find any issues or want to enhance the project, feel free to submit a pull request.
 
