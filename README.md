@@ -27,9 +27,9 @@ A Password Strength Checker is a cybersecurity project designed to assess the ro
 1. Clone this repository:
    git clone https://github.com/divyaparmar1/password-strength-checker.git
 2. Navigate to the project directory:
-   cd caesar-cipher
+   cd password-strength-checker
 3. Run the script:
-   python caesar_cipher.py
+   python password strength checker.py
 
 ## Screenshots
 ![image](https://github.com/divyaparmar1/Password_Strength_Checker-/assets/112643573/f8871a1f-96fb-45bd-b438-e12bdd2e1fc9)
